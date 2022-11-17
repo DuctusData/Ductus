@@ -1,0 +1,7 @@
+Link: https://github.com/tdunning/log-synth
+log-synth is a data generator that aims to generate realistic data based on predefined schemas.
+
+Could it fill the role of Ductus?
+ Answer: No
+ 1.It is oriented towards generating server log files, so it's not ideal for generating sensor data, plus even if it could, each log is generated individually,
+ so we couldn't simulate corelations between different sensors.
