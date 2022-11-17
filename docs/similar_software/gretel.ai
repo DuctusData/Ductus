@@ -1,0 +1,9 @@
+Link: https://gretel.ai
+
+Gretel is an advanced data generation toolbox, acessible both from a browser and from an ide of choice.
+
+Could it fit the role of Ductus?
+ Answer: No
+ 1. No data generation from the ground up, based on predefined formulas, but only by extending existing datasets using ML
+ 2. Not fully open source 
+ 3. Payment required for most uses
